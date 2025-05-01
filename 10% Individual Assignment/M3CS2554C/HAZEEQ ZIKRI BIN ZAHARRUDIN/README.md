@@ -4,6 +4,8 @@ CLASS: M3CS2554C
 
 # PYTORCH
 
+<img src="https://github.com/user-attachments/assets/ae95ec36-62c6-46c7-8401-4fa3dc19b593" width="240" alt="Description">
+
 PyTorch is the framework for the image processing and in deep learning-based computer vision. The services that are provided in this framework such as tools for low-level image manipulation and high-level task like object detection and segmentation. PyTorch indeed is the solid tool related to image processing.
 
 ## FEATURES:
