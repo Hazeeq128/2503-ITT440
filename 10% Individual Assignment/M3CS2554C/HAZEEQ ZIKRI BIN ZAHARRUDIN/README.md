@@ -76,5 +76,3 @@ saturated_img = gray + (img_tensor - gray) * saturation_factor
 brightness_factor = 1.2  # >1 = brighter
 bright_img = img_tensor * brightness_factor  # Clamp to [0, 1] if needed
 ```
-
-## ADVANCED FEATURES
